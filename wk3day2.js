@@ -73,7 +73,7 @@ class Pirate {
     new Pirate('Sam', 'The Observer', 1996)
   ];
   
-//   // Loop over each array and print three properties of each pirate
+// Loop over each array and print three properties of each pirate
   for (const pirate of jollyRoger) {
     console.log(`name: ${pirate.name} `);
     console.log(`nickname: ${pirate.nickname}`);
